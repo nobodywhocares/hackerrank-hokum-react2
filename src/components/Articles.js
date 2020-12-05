@@ -2,9 +2,6 @@ import React from 'react';
 
 function Articles({articles}) {
     
-
-    console.log("WTF WTF WTF: "+JSON.stringify(articles))
-
     
     return (
         <div className="card w-50 mx-auto">
